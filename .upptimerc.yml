@@ -4,13 +4,13 @@ repo: Uptime # The name of this repository
 
 sites:
   - name: Homepage
-    url: https://itzdabbzz.me
+    url: https://itzdabbzz.me/
   - name: Rick Dashboard
-    url: https://dashboard.itzdabbzz.me
+    url: https://dashboard.itzdabbzz.me/
   - name: Rick Pixel
-    url: https://place.itzdabbzz.me
+    url: https://place.itzdabbzz.me/
   - name: Rick MatterMost
-    url: https://mm.itzdabbzz.me
+    url: https://mm.itzdabbzz.me/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -19,17 +19,17 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Dabbzz Uptime
-  introTitle: ""**Uptime** for all of the services I currently serve"
+  introTitle: "**Uptime** for all of the services I currently serve"
   introMessage: Dabbzzs Services Status
   navbar:
     - title: Status
       href: /
     - title: Homepage
-      href: https://itzdabbzz.me
+      href: https://itzdabbzz.me/
     - title: Pixel
-      href: https://place.itzdabbzz.me
+      href: https://place.itzdabbzz.me/
     - title: GitHub
-      href: https://github.com/ItzDabbzz/Uptime
+      href: https://github.com/ItzDabbzz/Uptime/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
