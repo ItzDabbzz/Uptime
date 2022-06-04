@@ -23,18 +23,19 @@
     "icon": "https://favicons.githubusercontent.com/dashboard.itzdabbzz.me",
     "slug": "rick-dashboard",
     "status": "down",
-    "uptime": "83.02%",
-    "uptimeDay": "83.02%",
-    "uptimeWeek": "83.02%",
-    "uptimeMonth": "83.02%",
-    "uptimeYear": "83.02%",
+    "uptime": "47.60%",
+    "uptimeDay": "47.60%",
+    "uptimeWeek": "47.60%",
+    "uptimeMonth": "47.60%",
+    "uptimeYear": "47.60%",
     "time": 254,
     "timeDay": 254,
     "timeWeek": 254,
     "timeMonth": 254,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2022-06-03": 20
+      "2022-06-04": 58,
+      "2022-06-03": 51
     }
   },
   {
@@ -43,11 +44,11 @@
     "icon": "https://favicons.githubusercontent.com/place.itzdabbzz.me",
     "slug": "rick-pixel",
     "status": "up",
-    "uptime": "83.11%",
-    "uptimeDay": "83.11%",
-    "uptimeWeek": "83.11%",
-    "uptimeMonth": "83.11%",
-    "uptimeYear": "83.11%",
+    "uptime": "90.32%",
+    "uptimeDay": "90.32%",
+    "uptimeWeek": "90.32%",
+    "uptimeMonth": "90.32%",
+    "uptimeYear": "90.32%",
     "time": 284,
     "timeDay": 284,
     "timeWeek": 284,
@@ -81,18 +82,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "minecraft-hub",
     "status": "down",
-    "uptime": "82.65%",
-    "uptimeDay": "82.65%",
-    "uptimeWeek": "82.65%",
-    "uptimeMonth": "82.65%",
-    "uptimeYear": "82.65%",
+    "uptime": "46.88%",
+    "uptimeDay": "46.88%",
+    "uptimeWeek": "46.88%",
+    "uptimeMonth": "46.88%",
+    "uptimeYear": "46.88%",
     "time": 48,
     "timeDay": 48,
     "timeWeek": 48,
     "timeMonth": 48,
     "timeYear": 48,
     "dailyMinutesDown": {
-      "2022-06-03": 20
+      "2022-06-04": 58,
+      "2022-06-03": 51
     }
   },
   {
@@ -101,18 +103,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "minecraft-lobby",
     "status": "down",
-    "uptime": "82.68%",
-    "uptimeDay": "82.68%",
-    "uptimeWeek": "82.68%",
-    "uptimeMonth": "82.68%",
-    "uptimeYear": "82.68%",
+    "uptime": "46.89%",
+    "uptimeDay": "46.89%",
+    "uptimeWeek": "46.89%",
+    "uptimeMonth": "46.89%",
+    "uptimeYear": "46.89%",
     "time": 48,
     "timeDay": 48,
     "timeWeek": 48,
     "timeMonth": 48,
     "timeYear": 48,
     "dailyMinutesDown": {
-      "2022-06-03": 20
+      "2022-06-04": 58,
+      "2022-06-03": 51
     }
   }
 ]
